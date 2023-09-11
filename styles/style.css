@@ -1,3 +1,35 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
+.aktivno > a {
+    color: #292663 !important;
+}
+.navbar {
+    background-color: white;
+    /*color: white !important;*/
+    font-size: 19px;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    -webkit-box-shadow: 0 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);;
+}
+.nav-link {
+    color: #8ed8f8 !important;
+}
+
+.nav-link:hover {
+    /*background-color: #00afb9;*/
+    color: #292663 !important;
+}
+.different::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 1px;
+    background-color: #292663;
+    transition: width ease .3s;
+}
+
+.different:hover::after {
+    width: 100%;
+}
