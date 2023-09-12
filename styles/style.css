@@ -49,3 +49,6 @@
     width: 100%;
     height: auto;
 }
+.border-levo {
+    border-left: 2px solid #8ed8f8;
+}
