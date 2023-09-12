@@ -33,3 +33,19 @@
 .different:hover::after {
     width: 100%;
 }
+.hero-div {
+    position: relative;
+}
+
+.hero-pozadina {
+    position: absolute;
+    top: 35%;
+    transform: translateY(-35%);
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(56, 62, 66, 0.7); /* Green background with 0.5 opacity */
+    color: #f1f1f1;
+    border-top: 1px solid #8ed8f8;
+    border-bottom: 1px solid #8ed8f8;
+    width: 100%;
+    height: auto;
+}
