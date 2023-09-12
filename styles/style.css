@@ -100,5 +100,11 @@
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
 }
+.greyscale {
+    filter: none;
+}
 
+.greyscale:hover {
+    filter: invert(26%) sepia(26%) saturate(2595%) hue-rotate(15deg) brightness(49%) contrast(101%);;
+}
 
