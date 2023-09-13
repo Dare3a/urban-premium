@@ -274,7 +274,7 @@
 }
 .kontakt-podatci {
     color: white;
-    background-color: rgba(29, 53, 87, 0.7);
+    background-color: rgba(41, 38, 99, 0.4);
     border-radius: 10px;
 }
 .kontakt-podatci a, .text-link a {
@@ -309,4 +309,5 @@
     background-color: #e1e5f2 !important;
     /* border-radius: 0 !important; */
 }
+
 
