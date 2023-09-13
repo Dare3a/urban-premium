@@ -107,4 +107,18 @@
 .greyscale:hover {
     filter: invert(69%) sepia(82%) saturate(219%) hue-rotate(164deg) brightness(100%) contrast(95%);
 }
-
+.social-network .fab, .social-network .fas {
+    color: #292663;
+}
+.social-network .fab:hover, .social-network .fas:hover {
+    color: #8ed8f8;
+}
+.social-network a {
+    text-decoration: none;
+}
+.ink-link {
+    color: #292663;
+}
+.ink-link:hover {
+    color: #8ed8f8;
+}
