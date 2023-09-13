@@ -256,3 +256,6 @@
     border-radius: 5px;
     border: 1px solid white;
 }
+.border-vrh {
+    border-top: 1px solid #8ed8f8 !important;
+}
