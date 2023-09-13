@@ -272,3 +272,41 @@
     background-position: center;
     background-size: cover;
 }
+.kontakt-podatci {
+    color: white;
+    background-color: rgba(29, 53, 87, 0.7);
+    border-radius: 10px;
+}
+.kontakt-podatci a, .text-link a {
+    color: #8ed8f8;
+    text-decoration: none;
+    transition-duration: 0.2s;
+}
+.kontakt-podatci a:hover, .text-link a:hover {
+    color: #8ed8f8;
+    text-decoration: underline;
+}
+.txt-shadow {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.send-button .send-dugme {
+    border-radius: 15px;
+    color: white !important;
+    background-color: #292663 !important;
+    /*border: #fed9b7 1px solid !important;*/
+}
+.send-button .send-dugme:hover {
+    background-color: white !important;
+    color: #292663 !important;
+}
+.send-button .form-control:focus {
+    /*border-color: #009199 !important;*/
+    -webkit-box-shadow: 6px 6px 6px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 6px 6px 6px 0 rgba(0, 0, 0, 0.3);
+}
+.kontakt input, .kontakt textarea {
+    background-color: #e1e5f2 !important;
+    /* border-radius: 0 !important; */
+}
+
