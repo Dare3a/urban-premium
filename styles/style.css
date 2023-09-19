@@ -318,3 +318,12 @@
 .transbox {
     background: rgba(142, 216, 248, 0.1);
 }
+.widget-title span {
+    background: #8ed8f8 none repeat scroll 0 0;
+    display: block;
+    height: 3px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    position: relative;
+    width: 50px;
+}
