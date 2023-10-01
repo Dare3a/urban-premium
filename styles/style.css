@@ -288,7 +288,6 @@
 .kontakt-podatci {
     color: white;
     background-color: rgba(41, 38, 99, 0.4);
-    border-radius: 10px;
 }
 
 .kontakt-podatci a, .text-link a {
@@ -339,6 +338,9 @@
 
 .transbox {
     background: rgba(142, 216, 248, 0.1);
+}
+.transbox-kontakt {
+    background: rgba(142, 216, 248, 0.5);
 }
 
 .widget-title span {
