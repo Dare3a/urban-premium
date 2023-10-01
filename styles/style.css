@@ -361,3 +361,8 @@
     }
 
 }
+.bckg-logo {
+    background-image: url(../images/logo-300.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
