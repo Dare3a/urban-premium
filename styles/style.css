@@ -339,6 +339,7 @@
 .transbox {
     background: rgba(142, 216, 248, 0.1);
 }
+
 .transbox-kontakt {
     background: rgba(142, 216, 248, 0.5);
 }
@@ -363,8 +364,18 @@
     }
 
 }
+
 .bckg-logo {
     background-image: url(../images/logo-300.png);
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.icons-section a {
+    color: #292663;
+    text-decoration: none;
+}
+.icons-section a:hover {
+    color: #8ed8f8;
+    text-decoration: none;
 }
