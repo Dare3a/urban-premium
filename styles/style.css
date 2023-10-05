@@ -146,7 +146,9 @@
     color: white !important;
     background-color: #292663 !important;
 }
-
+.phone-call {
+    display: none;
+}
 /*poziv odmah*/
 @media only screen and (max-width: 992px) {
     .phone-call a {
